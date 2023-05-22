@@ -1,5 +1,6 @@
 # WillpowerProject
 An iOS Arcade Game made during a 3 days Game Jam with SpriteKit and GameplayKit
+* Frameworks: SpriteKit, GameplayKit, GameKit, GoogleMobileAds
 <img align="right" width="180" height="180" src="icone-AppStore.png">
 <p align="left">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt= "platform ios"/> 
